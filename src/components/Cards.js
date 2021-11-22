@@ -1,7 +1,11 @@
 import React from "react";
-import "./Navbar.css";
+import "./Cards.css";
 
 
 export default function Cards() {
-    return <h1>this are the cards</h1>
+    return (
+    <div className="card-container">
+        <h1>this are cards</h1>
+
+    </div>)
 }

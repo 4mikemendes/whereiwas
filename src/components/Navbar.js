@@ -3,9 +3,9 @@ import "./Navbar.css";
 
 export default function Navbar() {
     return (
-        <div className="navbar">
         <div className="navbar-container">
-        <h1>this is the navbar</h1>
+        <div className="navbar">
+        <h1 id="title"><i class="fa fa-globe" aria-hidden="true"></i> This is where i was</h1>
         </div>
         </div>
     );

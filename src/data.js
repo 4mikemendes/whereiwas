@@ -7,7 +7,7 @@ export default [
         startDate: "2019-10-01",
         endDate: "2019-10-31",
         description: "São Paulo is the capital of Brazil and the largest city in the country. It is the center of the city's metropolitan area, the largest metropolitan area in the Americas, and the 15th-most populous metropolitan area in the world. São Paulo is the seat of the São Paulo Region, the largest metropolitan area in Brazil, and the 10th-most populous metropolitan area in the world.",
-        image: "https://www.telegraph.co.uk/content/dam/Travel/2019/January/sao-paulo-main-xlarge.jpg?imwidth=1400"
+        image: "https://source.unsplash.com/random"
     },
     {
         id: 2,
@@ -17,8 +17,7 @@ export default [
         startDate: "2019-10-01",
         endDate: "2019-10-31",
         description: "Rio de Janeiro is the largest city in Brazil and the second-largest city in the country. It is the seat of the Rio de Janeiro Metropolitan Region, the largest metropolitan area in Brazil, and the 11th-most populous metropolitan area in the world.",
-        image: "https://www.telegraph.co.uk/content/dam/Travel/2019/January/rio-de-janeiro-main-xlarge.jpg?imwidth=1400"
-    },
+        image: "https://source.unsplash.com/random"    },
     {
         id: 3,
         location: "Curitiba",
@@ -27,6 +26,5 @@ export default [
         startDate: "2019-10-01",
         endDate: "2019-10-31",
         description: "Curitiba is the capital of Paraná and the largest city in Brazil. It is the seat of the Curitiba Metropolitan Region, the largest metropolitan area in Brazil, and the 12th-most populous metropolitan area in the world.",
-        image: "https://www.telegraph.co.uk/content/dam/Travel/2019/January/curitiba-main-xlarge.jpg?imwidth=1400"
-    }
+        image: "https://source.unsplash.com/random"    }
 ]

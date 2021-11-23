@@ -3,6 +3,7 @@ import curitiba from "./images/curitiba.jpg";
 import rio from "./images/rio-de-janeiro.jpg";
 import Spaulo from "./images/sao-paulo.jpg"
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default [
     {
         id: 1,

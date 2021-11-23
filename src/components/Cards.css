@@ -1,0 +1,59 @@
+.card-container {
+    display: flex;
+   text-align: left;
+   max-width: 700px;
+   min-width: auto;
+   margin: 20px;
+}
+
+.country {
+    font-weight: lighter;
+}
+.location {
+    display: flex;
+    margin: 0px 200px 0px 0px;
+    justify-content: space-around;
+    font-size: 0.8rem;
+    font-weight: lighter;
+}
+
+.title {
+    margin: 0px;
+    font-weight: lighter;
+}
+#dates {
+    font-weight: bold;
+    font-size: 0.8rem;
+    margin: 20px 0px 0px 0px;
+}
+
+#text {
+    margin: 10px 0px 0px 0px;
+    font-size: 0.9rem;
+    font-weight: lighter;
+}
+
+.card {
+  margin: 0px 20px 0px 20px;
+}
+
+.description {
+    margin: 0px;
+   
+}
+
+img {
+    border-radius: 10px;
+}
+
+.bottomLine {
+    max-width: 700px;
+    min-width: auto;
+    margin: 20px;
+   opacity: 0.1;
+}
+
+#google {
+    color: rgb(75, 75, 75);
+    opacity: 0.5;
+}

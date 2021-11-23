@@ -5,7 +5,7 @@ export default function Navbar() {
     return (
         <div className="navbar-container">
         <div className="navbar">
-        <h1 id="title"><i class="fa fa-globe" aria-hidden="true"></i> This is where i was</h1>
+        <h1 id="title"><i class="fa fa-globe" aria-hidden="true"></i> Were i have travelled</h1>
         </div>
         </div>
     );

@@ -2,18 +2,21 @@ import React from 'react';
 import './App.css';
 import Navbar from "./components/Navbar.js"
 import Cards from "./components/Cards.js"
-
-  
-// create a data.js with id, location, google maps, link, start date
-//end date, description, image URL
-// use .map() and props
-//style & polish
+import data from "./data.js"
 
 function App() {
+  const cardData = data.map(item => {
+    return (
+      <Cards 
+      key={item.id}
+      item={item}
+       />
+    )
+  })
   return (
     <div className="App">
     <Navbar />
-    <Cards />
+    {cardData}
     </div>
   );
 }

@@ -6,7 +6,7 @@ export default function Cards(props) {
     return (
         <>
     <div className="card-container">
-                 <img src={props.item.image} width="200px" height="250px"/>
+                 <img src={props.item.image} width="200px" height="250px" alt="city"/>
         <div className="card">
             <div className="location">
                  <h3 className="country"><i className="fa fa-map-marker" aria-hidden="true"></i> {props.item.location}</h3>

@@ -9,7 +9,7 @@ export default function Cards(props) {
                  <img src={props.item.image} width="200px" height="250px"/>
         <div className="card">
             <div className="location">
-                 <h3 className="country"><i class="fa fa-map-marker" aria-hidden="true"></i> {props.item.location}</h3>
+                 <h3 className="country"><i className="fa fa-map-marker" aria-hidden="true"></i> {props.item.location}</h3>
                  <a href={props.item.googleMaps}id="google"><p> View on Google Maps</p></a>
             </div>
                 

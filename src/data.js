@@ -12,7 +12,7 @@ export default [
         link: "https://www.google.com/maps/place/S%C3%A3o+Paulo/@-23.5505199,-46.6333073,10z/data=!3m1!4b1!4m5!3m4!1s0x94ce5f6a8f8c6d2f:0x8a0e9f8c8e8e0a0!8m2!3d-23.5505199!4d-46.6333073",
         startDate: "2019-10-01",
         endDate: "2019-10-31",
-        description: "São Paulo is the capital of Brazil and the largest city in the country. It is the center of the city's metropolitan area, the largest metropolitan area in the Americas, and the 15th-most populous metropolitan area in the world. São Paulo is the seat of the ",
+        description: "São Paulo is the capital of Brazil and the largest city in the country. It is the center of the city's metropolitan area, the largest metropolitan area in the Americas, and the 15th-most populous metropolitan area in the world. São Paulo is the seat of the São Paulo is the capital of Brazil and the largest city in the country. It is the center of the city's metropolitan area, the largest metropolitan area in the Americas, and the 15th-most populous metropolitan area in the world. São Paulo is the seat of the São Paulo is the capital of Brazil and the largest city in the country. It is the center of the city's metropolitan area, the largest metropolitan area in the Americas, and the 15th-most populous metropolitan area in the world. São Paulo is the seat of the",
         image: curitiba
     },
     {
